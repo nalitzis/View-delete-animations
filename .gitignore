@@ -1,0 +1,21 @@
+# os noise
+.DS_Store
+*.swp
+*.pyc
+
+# old school
+.svn
+
+# xcode
+*.pbxuser
+*.perspective
+*.perspectivev3
+*.mode1v3
+*.mode2v3
+*~.nib
+build/
+KPNVideoSolutions/revision.xcconfig
+
+# xcode 4
+xcuserdata
+

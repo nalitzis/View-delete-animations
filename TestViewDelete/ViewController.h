@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+#import "ContentView.h"
 
+@interface ViewController : UIViewController<ContentViewDelegate>
 @end
